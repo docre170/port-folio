@@ -49,7 +49,6 @@ header {
     gap: 1rem;
     align-items: center;
 }
-.navbar li { }
 .navbar a {
     color: #fff;
     text-decoration: none;
